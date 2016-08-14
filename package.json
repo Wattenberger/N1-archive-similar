@@ -1,0 +1,19 @@
+{
+  "name": "archiveSimilar",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "nylas": ">=0.4.47"
+  },
+  "windowTypes": {
+    "default": true,
+    "composer": true
+  },
+  "description": "Archive all other emails from the same sender",
+  "dependencies": {},
+  "license": "MIT"
+}
